@@ -23,7 +23,7 @@
                     <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">MySpring4App</a>
+                <a class="navbar-brand" href="#">MySpringWebSecurityApp</a>
             </div>
 
             <!--             Collect the nav links, forms, and other content for toggling -->

@@ -1,4 +1,4 @@
-package org.munilvc.myspringapp.config;
+package org.munilvc.myspringwebsecurityapp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -12,7 +12,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = { "org.munilvc.myspringapp" })
+@ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
 public class WebApplicationContextConfig extends WebMvcConfigurerAdapter {
 
     @Bean(name = "viewResolver")

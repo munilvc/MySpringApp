@@ -1,4 +1,4 @@
-package org.munilvc.myspringapp.config;
+package org.munilvc.myspringwebsecurityapp.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

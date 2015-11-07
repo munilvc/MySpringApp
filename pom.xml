@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.munilvc</groupId>
-    <artifactId>myspringapp</artifactId>
+    <artifactId>MySpringWebSecurityApp</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>myspringapp</name>
-    <url>http://maven.apache.org</url>
+    <name>MySpringWebSecurityApp</name>
+    <url>http://munilvc.github.io/</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

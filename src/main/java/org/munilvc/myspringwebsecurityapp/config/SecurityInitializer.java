@@ -1,4 +1,4 @@
-package org.munilvc.myspringapp.config;
+package org.munilvc.myspringwebsecurityapp.config;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 
