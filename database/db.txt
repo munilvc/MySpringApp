@@ -1,0 +1,16 @@
+mysql>   CREATE  TABLE IF NOT EXISTS `db`.`user` (
+    ->             `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    ->             `username` VARCHAR(100) NOT NULL ,
+    ->             `password` VARCHAR(100) NOT NULL
+    ->             )
+    ->           ENGINE = InnoDB;
+Query OK, 0 rows affected (0.57 sec)
+
+mysql> select * from user;
+Empty set (0.00 sec)
+
+mysql> insert into user (username, password) values ('user2', 'aa2b862fb0e0a017b578b9fafa9482a94c4a2438272c069646ec463679df8fa138853ac78115e5af');
+Query OK, 1 row affected (0.02 sec)
+
+mysql> insert into user (username, password) values ('user1', 'a9df78bb13894d7b4529c0abd6e40bfcd36967c21231b36aa587e15662dcd59c27d8f982cacd31e0');
+Query OK, 1 row affected (0.05 sec)

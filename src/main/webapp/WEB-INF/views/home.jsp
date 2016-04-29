@@ -44,6 +44,6 @@
         <!-- .container-fluid -->
     </nav>
 
-    <p>This is a basic template for: Spring MVC + Spring Security + Java Config + Bootstrap - by @munilvc
+    <p>This is a basic project for: Spring MVC + Spring Security + Java Config + Bootstrap - by @munilvc
 </body>
 </html>

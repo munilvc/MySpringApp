@@ -16,7 +16,9 @@
     <div class="container">
         <div class="row">
             <div class=".col-sm-5 col-sm-offset-4">
-                <p>My Spring 4 App - Simple Spring MVC + Spring Security + Bootstrap
+                <p>
+                <p>
+                <p>Spring MVC + Spring Security + BootStrap
                 <form action="login" method="POST" class="form-horizontal">
                     <c:if test="${param.error != null}">
                         <p>Invalid username or password.</p>
